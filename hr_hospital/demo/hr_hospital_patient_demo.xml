@@ -1,0 +1,13 @@
+<odoo>
+    <record id="hr_hospital_patient_demo_1" model="hr.hospital.patient">
+        <field name="name">Пилип Орлик</field>
+    </record>
+
+    <record id="hr_hospital_patient_demo_2" model="hr.hospital.patient">
+        <field name="name">Іван Виговський</field>
+    </record>
+
+    <record id="hr_hospital_patient_demo_3" model="hr.hospital.patient">
+        <field name="name">Павло Скоропадський</field>
+    </record>
+</odoo>
